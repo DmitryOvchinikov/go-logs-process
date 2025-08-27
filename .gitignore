@@ -30,3 +30,9 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# benchmark files
+tests/*.log
+tests/*_*.log
+cpu.out
+*.test
